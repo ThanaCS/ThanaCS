@@ -22,6 +22,7 @@ I'm Thana, a Software Engineer I work at The Saudi Federation for Cybersecurity,
   <img src="https://img.shields.io/badge/-Java-e942f5?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-python-7242f5?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Unity-4284f5?style=flat&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"/>
   <img src="http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swift-f59c42?style=flat&logo=Swift&logoColor=white"/>
