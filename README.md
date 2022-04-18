@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=32&color=2BF77B&center=true&vCenter=true&lines=Hello+there+!;I'm+Thana+Abdullah">
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
+</p>
+
+## About Me
 
 I'm Thana, a Software Engineer I work at The Saudi Federation for Cybersecurity, Programming and Drones (SAFCSP) as an Android Developer (Kotlin), I'm intersted in Mobile Development, Kotlin Multiplatform and Game Development, I have a bachelor's degree on Computer Science (CS). 
 
