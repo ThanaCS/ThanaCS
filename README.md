@@ -10,8 +10,7 @@ I'm Thana, a Software Engineer I work at The Saudi Federation for Cybersecurity,
 ## Github stats
 
 <p align="center">
-  <img height="140px" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ThanaCS&show_icons=true&count_private=true&theme=dark&hide=contribs,issues"/>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanaCS&langs_count=9&layout=compact&theme=dark"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ThanaCS&show_icons=true&count_private=true&theme=dark&hide=contribs,issues"/>
 </p>
 
 ## Languages & Frameworks
